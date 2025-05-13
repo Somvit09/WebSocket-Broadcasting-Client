@@ -2,6 +2,10 @@
 
 This project demonstrates a WebSocket server-client architecture that allows real-time message broadcasting between multiple clients.
 
+## 🔗 Project URL
+
+[https://github.com/Somvit09/WebSocket-Broadcasting-Client](https://github.com/Somvit09/WebSocket-Broadcasting-Client)
+
 ## Features
 
 - Real-time communication between clients using WebSockets
