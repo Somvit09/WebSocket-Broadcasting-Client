@@ -4,7 +4,7 @@ This project demonstrates a WebSocket server-client architecture that allows rea
 
 ## 🔗 Project URL
 
-[![GitHub](https://img.shields.io/badge/Visit%20Repo-GitHub-blue?logo=github)](https://github.com/Somvit09/WebSocket-Broadcasting-Client)
+Project on Roadmap.sh: [https://roadmap.sh/projects/broadcast-server](https://roadmap.sh/projects/broadcast-server)
 
 
 ## Features
